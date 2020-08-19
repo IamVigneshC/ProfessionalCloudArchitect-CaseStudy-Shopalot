@@ -1,4 +1,4 @@
-### Shopalot
+# Shopalot
 
 Shopalot is a global shopping site that wants to build a scalable e-commerce to server global customers.
 
