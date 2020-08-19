@@ -23,3 +23,6 @@ Shoppers can search products, add them to a shopping cart, and buy them through 
 
 • Email/Promotion Manager(s)
 
+
+
+![Image of GCP](https://github.com/IamVigneshC/ProfessionalCloudArchitect-CaseStudy-Shopalot/blob/master/1.jpg)
